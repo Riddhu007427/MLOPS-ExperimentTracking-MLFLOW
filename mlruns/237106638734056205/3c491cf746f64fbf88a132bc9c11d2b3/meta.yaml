@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/237106638734056205/3c491cf746f64fbf88a132bc9c11d2b3/artifacts
+end_time: 1752332637788
+entry_point_name: ''
+experiment_id: '237106638734056205'
+lifecycle_stage: active
+run_id: 3c491cf746f64fbf88a132bc9c11d2b3
+run_name: auspicious-worm-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752332637206
+status: 3
+tags: []
+user_id: nishika

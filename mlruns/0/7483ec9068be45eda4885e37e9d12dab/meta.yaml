@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7483ec9068be45eda4885e37e9d12dab/artifacts
+end_time: 1752326711064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7483ec9068be45eda4885e37e9d12dab
+run_name: adorable-smelt-101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752326710914
+status: 3
+tags: []
+user_id: nishika

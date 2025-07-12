@@ -1,0 +1,10 @@
+digest: 451d9ac8
+name: dataset
+profile: '{"features_shape": [160, 13], "features_size": 2080, "features_nbytes":
+  16640, "targets_shape": [160], "targets_size": 160, "targets_nbytes": 1280}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 13]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"int64\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "nishika", "mlflow.source.name": "D:\\MySQL\\Ridesh\\MLOPS\\MLOPS-ExperimentTracking-MLFLOW\\src\\autolog.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "1f9f1f36d009140c8a1813b92876f93058d5ffaf"}}'
+source_type: code

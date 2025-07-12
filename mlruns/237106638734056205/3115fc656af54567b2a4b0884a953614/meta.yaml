@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/237106638734056205/3115fc656af54567b2a4b0884a953614/artifacts
+end_time: 1752333746108
+entry_point_name: ''
+experiment_id: '237106638734056205'
+lifecycle_stage: active
+run_id: 3115fc656af54567b2a4b0884a953614
+run_name: funny-wasp-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752333734289
+status: 3
+tags: []
+user_id: nishika

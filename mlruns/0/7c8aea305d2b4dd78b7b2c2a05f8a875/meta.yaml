@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7c8aea305d2b4dd78b7b2c2a05f8a875/artifacts
+end_time: 1752330842620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c8aea305d2b4dd78b7b2c2a05f8a875
+run_name: abrasive-hog-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752330840946
+status: 3
+tags: []
+user_id: nishika

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/237106638734056205/df63ccec3c3941dea7054bac710b3e15/artifacts
+end_time: 1752338568796
+entry_point_name: ''
+experiment_id: '237106638734056205'
+lifecycle_stage: active
+run_id: df63ccec3c3941dea7054bac710b3e15
+run_name: fearless-fox-462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752338561018
+status: 3
+tags: []
+user_id: nishika

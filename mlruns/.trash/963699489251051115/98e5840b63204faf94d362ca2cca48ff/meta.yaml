@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/963699489251051115/98e5840b63204faf94d362ca2cca48ff/artifacts
+deleted_time: 1752660137569
+end_time: 1752659812351
+entry_point_name: ''
+experiment_id: '963699489251051115'
+lifecycle_stage: deleted
+run_id: 98e5840b63204faf94d362ca2cca48ff
+run_name: youthful-goat-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752659812278
+status: 3
+tags: []
+user_id: nishika

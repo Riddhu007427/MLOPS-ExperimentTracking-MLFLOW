@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/963699489251051115/a952a9c020ec4b0cbbd95d7970bd5b06/artifacts
+deleted_time: 1752660137569
+end_time: 1752659811349
+entry_point_name: ''
+experiment_id: '963699489251051115'
+lifecycle_stage: deleted
+run_id: a952a9c020ec4b0cbbd95d7970bd5b06
+run_name: luminous-quail-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752659811225
+status: 3
+tags: []
+user_id: nishika

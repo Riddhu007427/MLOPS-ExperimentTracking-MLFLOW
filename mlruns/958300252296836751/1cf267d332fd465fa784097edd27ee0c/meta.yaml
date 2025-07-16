@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/958300252296836751/1cf267d332fd465fa784097edd27ee0c/artifacts
+end_time: 1752660297848
+entry_point_name: ''
+experiment_id: '958300252296836751'
+lifecycle_stage: active
+run_id: 1cf267d332fd465fa784097edd27ee0c
+run_name: sassy-dolphin-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752660297663
+status: 3
+tags: []
+user_id: nishika

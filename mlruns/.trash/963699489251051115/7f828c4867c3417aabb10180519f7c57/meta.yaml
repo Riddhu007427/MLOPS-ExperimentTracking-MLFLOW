@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/963699489251051115/7f828c4867c3417aabb10180519f7c57/artifacts
+deleted_time: 1752660137569
+end_time: 1752659830238
+entry_point_name: ''
+experiment_id: '963699489251051115'
+lifecycle_stage: deleted
+run_id: 7f828c4867c3417aabb10180519f7c57
+run_name: suave-quail-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752659803071
+status: 3
+tags: []
+user_id: nishika

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/963699489251051115/fc314efe262a4cddbe95db918e4c46dc/artifacts
+deleted_time: 1752660137569
+end_time: 1752659812268
+entry_point_name: ''
+experiment_id: '963699489251051115'
+lifecycle_stage: deleted
+run_id: fc314efe262a4cddbe95db918e4c46dc
+run_name: suave-colt-579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752659812198
+status: 3
+tags: []
+user_id: nishika

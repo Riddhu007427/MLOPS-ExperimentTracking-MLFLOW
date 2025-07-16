@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/958300252296836751/921c8d8518074ee29527fe655def5c16/artifacts
+end_time: 1752660297568
+entry_point_name: ''
+experiment_id: '958300252296836751'
+lifecycle_stage: active
+run_id: 921c8d8518074ee29527fe655def5c16
+run_name: chill-shrike-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752660297447
+status: 3
+tags: []
+user_id: nishika

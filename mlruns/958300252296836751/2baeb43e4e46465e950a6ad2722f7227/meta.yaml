@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/958300252296836751/2baeb43e4e46465e950a6ad2722f7227/artifacts
+end_time: 1752660297017
+entry_point_name: ''
+experiment_id: '958300252296836751'
+lifecycle_stage: active
+run_id: 2baeb43e4e46465e950a6ad2722f7227
+run_name: painted-tern-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752660296954
+status: 3
+tags: []
+user_id: nishika

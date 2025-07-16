@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/963699489251051115/dc6f03172e2c46cf86626877356f56a5/artifacts
+deleted_time: 1752660137569
+end_time: 1752659811729
+entry_point_name: ''
+experiment_id: '963699489251051115'
+lifecycle_stage: deleted
+run_id: dc6f03172e2c46cf86626877356f56a5
+run_name: kindly-zebra-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752659811663
+status: 3
+tags: []
+user_id: nishika

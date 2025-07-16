@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/963699489251051115/de48513713024fe0bccfa76696d62351/artifacts
+deleted_time: 1752660137569
+end_time: 1752659811961
+entry_point_name: ''
+experiment_id: '963699489251051115'
+lifecycle_stage: deleted
+run_id: de48513713024fe0bccfa76696d62351
+run_name: bald-wren-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752659811829
+status: 3
+tags: []
+user_id: nishika

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/963699489251051115/e8586afdb84e446fb87f9e48cc590a19/artifacts
+deleted_time: 1752660137569
+end_time: 1752659811818
+entry_point_name: ''
+experiment_id: '963699489251051115'
+lifecycle_stage: deleted
+run_id: e8586afdb84e446fb87f9e48cc590a19
+run_name: bald-vole-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752659811745
+status: 3
+tags: []
+user_id: nishika

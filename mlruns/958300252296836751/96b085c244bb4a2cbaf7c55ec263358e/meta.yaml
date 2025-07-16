@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/958300252296836751/96b085c244bb4a2cbaf7c55ec263358e/artifacts
+end_time: 1752660297314
+entry_point_name: ''
+experiment_id: '958300252296836751'
+lifecycle_stage: active
+run_id: 96b085c244bb4a2cbaf7c55ec263358e
+run_name: trusting-smelt-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752660297247
+status: 3
+tags: []
+user_id: nishika

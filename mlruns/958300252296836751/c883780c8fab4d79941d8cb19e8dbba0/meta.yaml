@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/958300252296836751/c883780c8fab4d79941d8cb19e8dbba0/artifacts
+end_time: 1752660297146
+entry_point_name: ''
+experiment_id: '958300252296836751'
+lifecycle_stage: active
+run_id: c883780c8fab4d79941d8cb19e8dbba0
+run_name: thundering-cod-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752660297080
+status: 3
+tags: []
+user_id: nishika

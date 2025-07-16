@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/963699489251051115/models/m-9c71a12c084143b6bf1c9e5222571159/artifacts
+creation_timestamp: 1752659812793
+experiment_id: '963699489251051115'
+last_updated_timestamp: 1752659830203
+model_id: m-9c71a12c084143b6bf1c9e5222571159
+model_type: null
+name: random_forest
+source_run_id: 7f828c4867c3417aabb10180519f7c57
+status: 2
+status_message: null

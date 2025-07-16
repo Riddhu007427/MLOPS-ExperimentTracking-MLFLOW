@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/958300252296836751/344dc402382c46ddb513f830bc833ed7/artifacts
+end_time: 1752660297437
+entry_point_name: ''
+experiment_id: '958300252296836751'
+lifecycle_stage: active
+run_id: 344dc402382c46ddb513f830bc833ed7
+run_name: agreeable-hog-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752660297330
+status: 3
+tags: []
+user_id: nishika

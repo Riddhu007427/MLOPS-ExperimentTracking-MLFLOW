@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/958300252296836751/e9bd6ecde57d45938cbce29f812a8966/artifacts
+end_time: 1752660296938
+entry_point_name: ''
+experiment_id: '958300252296836751'
+lifecycle_stage: active
+run_id: e9bd6ecde57d45938cbce29f812a8966
+run_name: receptive-flea-565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752660296877
+status: 3
+tags: []
+user_id: nishika

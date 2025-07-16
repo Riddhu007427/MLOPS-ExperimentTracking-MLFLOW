@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/963699489251051115/a96ef8c16b4f44edaface96becf58cc3/artifacts
+deleted_time: 1752660137569
+end_time: 1752659812071
+entry_point_name: ''
+experiment_id: '963699489251051115'
+lifecycle_stage: deleted
+run_id: a96ef8c16b4f44edaface96becf58cc3
+run_name: popular-finch-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752659811961
+status: 3
+tags: []
+user_id: nishika

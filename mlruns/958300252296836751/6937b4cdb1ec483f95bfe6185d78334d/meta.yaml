@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MySQL/Ridesh/MLOPS/MLOPS-ExperimentTracking-MLFLOW/mlruns/958300252296836751/6937b4cdb1ec483f95bfe6185d78334d/artifacts
+end_time: 1752660298048
+entry_point_name: ''
+experiment_id: '958300252296836751'
+lifecycle_stage: active
+run_id: 6937b4cdb1ec483f95bfe6185d78334d
+run_name: adorable-conch-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752660297969
+status: 3
+tags: []
+user_id: nishika
